@@ -3,7 +3,7 @@ A comprehensive knowledge base and documentation repository for my journey into 
 
 # Welcome to My Web Development Journey
 
-Hello there! 👋 I'm embarking on an exciting journey into the world of web development. My adventure started somewhat last year, initially dabbling with various aspects of web development and soaking in as much knowledge as I could from several tutorials. Now, I've finally established the setup and learning path that I plan to follow, aiming to create my first real-life projects.
+Hello there! I'm embarking on an exciting journey into the world of web development. My adventure started somewhat last year, initially dabbling with various aspects of web development and soaking in as much knowledge as I could from several tutorials. Now, I've finally established the setup and learning path that I plan to follow, aiming to create my first real-life projects.
 
 As a beginner web developer, I understand the overwhelming feeling of navigating through the countless tutorials, online courses, and the myriad of technologies out there. The aim is to build modern, interactive websites, but where do you start? If you're like me, just starting and feeling swamped by all the information available, this repository might just be the beacon of light you need.
 
