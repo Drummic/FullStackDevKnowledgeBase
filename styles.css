@@ -1,0 +1,31 @@
+/* Dark mode with centered text using classes */
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.main-heading, .sub-heading {
+    color: #00ffaa;
+}
+
+.text, .list-item {
+    color: #cccccc;
+}
+
+.link {
+    color: #00ffaa;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0;
+}
